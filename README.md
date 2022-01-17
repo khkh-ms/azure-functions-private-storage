@@ -12,7 +12,7 @@ One of the key scenarios in this sample is the use of Azure Storage private endp
 
 ## Deployment
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fkhkh%2Fazure-functions-private-storage.git)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fkhkh%2Fazure-functions-private-storage)
 
 ### Prerequisites
 
